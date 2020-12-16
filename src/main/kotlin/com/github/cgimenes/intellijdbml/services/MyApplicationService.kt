@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.cgimenes.intellijdbml.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.cgimenes.intellijdbml.MyBundle
 
 class MyApplicationService {
 
